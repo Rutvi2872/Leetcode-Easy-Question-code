@@ -1,1 +1,1 @@
-# Leetcode-Easy-Question-code
+# Leetcode-Easy-Question-code-Solution 
